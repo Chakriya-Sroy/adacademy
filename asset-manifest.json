@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Chakriya-Sroy/adacademy/static/css/main.2321f9ae.css",
-    "main.js": "/Chakriya-Sroy/adacademy/static/js/main.f16c3466.js",
-    "static/media/cta.jpg": "/Chakriya-Sroy/adacademy/static/media/cta.da59d0b769a5172f3d23.jpg",
-    "static/media/acd1.jpg": "/Chakriya-Sroy/adacademy/static/media/acd1.f83578ca22ea8bccc66f.jpg",
-    "static/media/sketch-course-bg.jpg": "/Chakriya-Sroy/adacademy/static/media/sketch-course-bg.abc12b75d751eece18be.jpg",
-    "static/media/about.jpg": "/Chakriya-Sroy/adacademy/static/media/about.bd1d7854a431cbb060a7.jpg",
-    "static/media/acd2.jpg": "/Chakriya-Sroy/adacademy/static/media/acd2.54bda5560880936d3989.jpg",
-    "index.html": "/Chakriya-Sroy/adacademy/index.html",
-    "main.2321f9ae.css.map": "/Chakriya-Sroy/adacademy/static/css/main.2321f9ae.css.map",
-    "main.f16c3466.js.map": "/Chakriya-Sroy/adacademy/static/js/main.f16c3466.js.map"
+    "main.css": "/adacademy/static/css/main.24a6f362.css",
+    "main.js": "/adacademy/static/js/main.e61488b6.js",
+    "static/media/cta.jpg": "/adacademy/static/media/cta.da59d0b769a5172f3d23.jpg",
+    "static/media/acd1.jpg": "/adacademy/static/media/acd1.f83578ca22ea8bccc66f.jpg",
+    "static/media/sketch-course-bg.jpg": "/adacademy/static/media/sketch-course-bg.abc12b75d751eece18be.jpg",
+    "static/media/about.jpg": "/adacademy/static/media/about.bd1d7854a431cbb060a7.jpg",
+    "static/media/acd2.jpg": "/adacademy/static/media/acd2.54bda5560880936d3989.jpg",
+    "index.html": "/adacademy/index.html",
+    "main.24a6f362.css.map": "/adacademy/static/css/main.24a6f362.css.map",
+    "main.e61488b6.js.map": "/adacademy/static/js/main.e61488b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.2321f9ae.css",
-    "static/js/main.f16c3466.js"
+    "static/css/main.24a6f362.css",
+    "static/js/main.e61488b6.js"
   ]
 }
