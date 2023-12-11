@@ -1,0 +1,23 @@
+:root {
+    --color_1: #444444;
+    --color_2: #FFCD3A;
+    --color_3: #042738;
+    --color_4: #fff;
+    --color_5: #0c3c53;
+    --color_6: #37517e;
+    --color_7: rgba(255, 255, 255, 0.6);
+    --color_8: #848484;
+    --color_9: #343a40;
+    --color_10: #f9fcfe;
+    --color_11: #999;
+    --color_12: #28a745;
+    --color_13: #ccc;
+    --color_14: #6182ba;
+    --color_15: red;
+    --color_16: #4668a2;
+    --color_17: #5e5e5e;
+    --color_18: #777777;
+    --color_19: #000000;
+    --font_family_primary:'Phenomena Black',sans-serif;
+    --font_family_secondary:'Barlow Meduim',sans-serif;
+  }
